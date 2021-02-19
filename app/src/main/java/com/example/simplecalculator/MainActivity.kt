@@ -339,7 +339,7 @@ class MainActivity : AppCompatActivity() {
                 firstString = ""
                 displayOne.text = firstString
                 displayTwo.text = secondString
-                operationChoice = 2
+                operationChoice = 3
             }
         }
         equal.setOnClickListener {
